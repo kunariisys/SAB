@@ -1,5 +1,5 @@
 --Dumper created by @kunariixo.
-local objectData = {
+return {
     ["Unknown_0x4c63e5d3783fc0d2"] = {
         ["LastUpdate"] = 1778557285,
         ["Icon"] = "rbxassetid://0",
@@ -4372,4 +4372,3 @@ local objectData = {
         ["FastRainbow.NO_FAST_RAINBOW_ANIMALS"] = {...},
     },
 }
-return objectData
