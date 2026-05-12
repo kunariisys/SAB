@@ -557,7 +557,7 @@ return {
     ["Unknown_0x75d2b1c65fdbd703"] = {
         ["ToggleGiftSignal"] = {...},
         ["CloseGiftingScreen"] = "function: 0x93b81fc8fad57ec3",
-        ["GiftFrame"] = game.Players.blackoppsII500.PlayerGui.GiftPlayer.GiftPlayer,
+        --["GiftFrame"] = game.Players.blackoppsII500.PlayerGui.GiftPlayer.GiftPlayer,
         ["UnbindLabelProductPrice"] = "function: 0x77426ead1ecb28e3",
         ["GetGiftingTarget"] = "function: 0x12ef453cfba5ba23",
         ["RemoveGiftingTarget"] = "function: 0xca68071bc7345903",
